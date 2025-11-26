@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+altair
+snowflake-connector-python
+snowflake-snowpark-python
+matplotlib
